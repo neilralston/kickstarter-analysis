@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
 ## Executive Summary 
-[LaunchDateOutcomes.png](C:\Temp\Bootcamp\Class_Folder\Crowdfunding_Analysis])
-[ParentCateoryOutcomes.png](C:\Temp\Bootcamp\Class_Folder\Crowdfunding_Analysis)
-[filename](path/to/filename.xlxs)
+![LaunchDateOutcomes.png](C:\Temp\Bootcamp\Class_Folder\Crowdfunding_Analysis])
+![ParentCateoryOutcomes.png](C:\Temp\Bootcamp\Class_Folder\Crowdfunding_Analysis)
+[data-1-1-3-StarterBook_nar.xlsx](C:\Temp\Bootcamp\Class_Folder\Crowdfunding_Analysis)
