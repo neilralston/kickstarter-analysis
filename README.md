@@ -17,7 +17,7 @@ Used COUNTIFS() functions to populate "Number Successful," "Number Failed," and 
 Created a line chart to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis. 
 
 ### Challenges and Difficulties Encountered
-Encountered and resoloved the following challenges:
+Encountered and resolved the following challenges:
 1. Forgot to "unfreeze" panes in master "Kickstarter" data sheet from a previous analysis, which affected filtering capabilities.  Filtering capability was restored by unfreezing panes.
 2. Misspelled "canceled" in COUNTIFS function, resulting in nonsensical results.  Checked and corrected spelling to achieve sensical results.
 
