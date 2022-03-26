@@ -38,5 +38,5 @@ What are some limitations of this dataset?
 1. The dataset only contains information for campaigns launched between 2009 and 2017. It also contains data for a limited number of countries and media categories.
 
 What are some other possible tables and/or graphs that we could create?
-1. It would be interesting to assess a campaign outcome based on its duration.  Although not in the dataset, as assessment of a play's audience rating compared to fundraising performance could be insightful.
+1. It would be interesting to assess a campaign outcome based on its duration.  Although not in the dataset, an assessment of a play's audience rating compared to fundraising performance could be insightful.
 
