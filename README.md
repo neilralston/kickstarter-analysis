@@ -16,7 +16,7 @@ Visualized the percentage of successful, failed, and canceled plays based on the
 Used COUNTIFS() functions to populate "Number Successful," "Number Failed," and "Number Canceled" columns.
 Created a line chart to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis. 
 
-!(Outcomes_Based_On_Goal.png)
+!(Resources/Outcomes_Based_On_Goal.png)
 
 ### Challenges and Difficulties Encountered
 Encountered and resolved the following challenges:
