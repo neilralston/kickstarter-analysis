@@ -11,12 +11,14 @@ Assessment about how different play campaigns fared in relation to their launch 
 Used pivot tables and graphing in Excel to visualize campaign outcomes ("successful," "failed," and "canceled") based on launch date from the "Kickstarter" dataset.
 Created a line chart from the pivot table to visualize the relationship between outcomes and launch month.
 
+
+
 ### Analysis of Outcomes Based on Goals
 Visualized the percentage of successful, failed, and canceled plays based on the funding goal amount. 
 Used COUNTIFS() functions to populate "Number Successful," "Number Failed," and "Number Canceled" columns.
 Created a line chart to visualize the relationship between the goal-amount ranges on the x-axis and the percentage of successful, failed, or canceled projects on the y-axis. 
 
-![](Outcomes_Based_On_Goal.png)
+![Outcomes Based On Goal Chart](Outcomes_Based_On_Goal.png)
 
 ### Challenges and Difficulties Encountered
 Encountered and resolved the following challenges:
